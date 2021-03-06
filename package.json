@@ -1,0 +1,28 @@
+{
+  "name": "tryingnodeexpress",
+  "version": "0.0.0",
+  "description": "Trying out Node.js with Express",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcondesso/tryingNodeExpress.git"
+  },
+  "keywords": [
+    "tutorial",
+    "node",
+    "express"
+  ],
+  "author": "Miguel Condesso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcondesso/tryingNodeExpress/issues"
+  },
+  "homepage": "https://github.com/mcondesso/tryingNodeExpress#readme"
+}
